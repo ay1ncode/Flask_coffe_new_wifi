@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a1dc9de5-666a-48f9-ac7d-898aa4d1cc32" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../AYWeb/.idea/AYWeb.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ayotundewebsite/.idea/Ayotundewebsite.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Birthday+Wisher+(Day+32)+start/.idea/Birthday_Wisher.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Completed_tindog_web_by_ay/.idea/Completed_tindogwebsite.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mail+Merge+Project+Start/.idea/Mail+Merge+Project+Start.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../NATO+Phonetic+Alphabet+for+the+Code+Exercise/.idea/NATO+Phonetic+Alphabet+for+the+Code+Exercise.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../NATO-alphabet-start/.idea/NATO-alphabet-start.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Solution+-+snake-game-high-score-final/.idea/Solution+-+snake-game-high-score-final.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Solution+-+stock-news-end/.idea/Solution+-+stock-news-end.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Starting+Files+-+RESTful-blog-start/.idea/Starting+Files+-+RESTful-blog-start.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Starting+Files+-+cafe-api-start/.idea/Starting+Files+-+cafe-api-start.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Starting+Files+-+coffee-and-wifi/.idea/Starting+Files+-+coffee-and-wifi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Starting+Files+-+flask-auth-start/.idea/Starting+Files+-+flask-auth-start.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Starting+Files+-+flask-secrets/.idea/Starting+Files+-+flask-secrets.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Starting+Files+-+movie-/.idea/Starting+Files+-+movie-.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Starting+Files+-+movie-project-start/.idea/Starting+Files+-+movie-project-start.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Starting+blog-with-users-start/.idea/Starting+blog-with-users-start.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Starting-wifi/.idea/Starting-wifi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../birthday-wisher-extrahard-start/.idea/birthday-wisher-extrahard-start.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blog-templating-start/.idea/blog-templating-start.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blog-with-users-start/.idea/blog-with-users-start.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bs4-start/.idea/bs4-start.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../flash-card-project-start/.idea/flash-card-project-start.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../flight-deals-start (1)/.idea/flight-deals-start (1).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../issoverhead-start/.idea/issoverhead-start.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kanye-quotes-start/.idea/kanye-quotes-start.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../password-manager-start/.idea/password-manager-start.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pomodoro-start/.idea/pomodoro-start.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonProject/.idea/pythonProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonProject1/.idea/pythonProject1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../quizzler-app-start (1)/.idea/quizzler-app-start (1).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../startbootstrap-clean-blog-gh-pages/.idea/startbootstrap-clean-blog-gh-pages.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../stock-news-hard-start/.idea/stock-news-hard-start.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../turtle-crossing-start/.idea/turtle-crossing-start.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../us-states-game-start/.idea/us-states-game-start.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../websitestartingproject/.idea/websitestartingproject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ay_python_app" beforeDir="false" afterPath="$PROJECT_DIR$/../Ay_python_app" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myform.py" beforeDir="false" afterPath="$PROJECT_DIR$/myform.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2O4qfgb4WIdFUKQGAIZ4XEPKDOv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/CoDeGOD/Desktop/Pythonprojects/Completed/Starting+Files+-+coffee-and-wifi"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Starting+Files+-+coffee-and-wifi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a1dc9de5-666a-48f9-ac7d-898aa4d1cc32" name="Changes" comment="" />
+      <created>1680830307986</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680830307986</updated>
+    </task>
+    <servers />
+  </component>
+</project>
